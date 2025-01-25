@@ -1,0 +1,4 @@
+[core]
+    remote = dagshub-remote
+['remote "dagshub-remote"']
+    url = https://dagshub.com/krzysztof4499v2/cv_project3
