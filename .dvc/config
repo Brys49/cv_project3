@@ -1,0 +1,4 @@
+[core]
+    remote = googlecloud
+['remote "googlecloud"']
+    url = gs://computer-vision-colorization-project3/storage
